@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+#By Steven Miller
+#Team 08
+#E-Business - Spring 2015
+
+import socks8,sys
+
+if __name__ == "__main__":
+    c = socks8.Clent8(__file__)
+    c.run()
+

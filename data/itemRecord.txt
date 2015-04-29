@@ -1,0 +1,1 @@
+{"items":[{"itemID":"071001","itemName":"Basic","startingFunds":50000},{"itemID":"071002","itemName":"Business","startingFunds":250000},{"itemID":"071003","itemName":"Silver","startingFunds":500000},{"itemID":"071004","itemName":"Gold","startingFunds":750000},{"itemID":"071005","itemName":"Platinum","startingFunds":1000000}]}
